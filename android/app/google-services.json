@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "84338152814",
+    "project_id": "zlearn-3d68d",
+    "storage_bucket": "zlearn-3d68d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84338152814:android:f4c9f997cb225a0c2e5d7f",
+        "android_client_info": {
+          "package_name": "ioevisa.edemand.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84338152814-serq9bd3uq0mn0s17uer3nk9cmkroadu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ioevisa.edemand.provider",
+            "certificate_hash": "33588a26820424a6d72d5f33a55b3b7ac03337c5"
+          }
+        },
+        {
+          "client_id": "84338152814-lvkoip9o2lt176369bfr82jiad263md7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGlvUP-_G39yA-MLkwjwP4q7xk2jhIAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84338152814-lvkoip9o2lt176369bfr82jiad263md7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
